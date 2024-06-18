@@ -1,2 +1,2 @@
 # my-new-repo
-Connecting vs code to github
+Connection vs code to github
